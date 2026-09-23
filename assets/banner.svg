@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1c3f"/><stop offset="1" stop-color="#1f4e8c"/>
+    </linearGradient>
+    <linearGradient id="hl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffb347"/><stop offset="1" stop-color="#ff7a59"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="1080" cy="40" r="170" fill="#ffffff" opacity="0.05"/>
+  <circle cx="1150" cy="300" r="110" fill="#ffffff" opacity="0.05"/>
+  <g font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Segoe UI',sans-serif">
+    <text x="70" y="98" fill="#9fb8e6" font-size="24" letter-spacing="6">REMOTE · WORK FROM ANYWHERE</text>
+    <text x="68" y="170" fill="#ffffff" font-size="64" font-weight="700">Remote Jobs <tspan fill="#ffb347">· 远程工作岗位</tspan></text>
+    <text x="70" y="220" fill="#d6e2f7" font-size="26">每天自动更新 · Updated daily · 2026-09-24</text>
+    <rect x="70" y="248" width="230" height="44" rx="22" fill="#ffffff" opacity="0.12"/>
+    <text x="185" y="278" fill="#ffffff" font-size="22" text-anchor="middle">在招 Open  1262</text>
+    <rect x="316" y="248" width="270" height="44" rx="22" fill="url(#hl)"/>
+    <text x="451" y="278" fill="#0f1c3f" font-size="22" font-weight="700" text-anchor="middle">本周新增 New  233</text>
+  </g>
+</svg>
